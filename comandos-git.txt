@@ -1,0 +1,9 @@
+git init
+git status
+git add nome-do-arquivo
+git add .
+git rm --cached
+git restore nome-do-arquivo
+git commit -m "mensagem"
+git log
+git checkout id-do-commit
