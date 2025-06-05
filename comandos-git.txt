@@ -1,3 +1,4 @@
+--- comandos repositório local ---
 git init
 git status
 git add nome-do-arquivo
@@ -8,4 +9,7 @@ git commit -m "mensagem"
 git log
 git checkout id-do-commit
 
-nova linha
+--- comandos repositório remoto ---
+git pull
+git push
+git clone
